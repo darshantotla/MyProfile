@@ -1,0 +1,128 @@
+body{
+text-align: center;
+color: black;
+}
+
+#me{
+border-style: dashed;
+border-color: black;
+padding-top: 50px;
+}
+
+#applabprojects{
+height:100%;
+width: 100%;
+background-color: lime;
+}
+
+.line{
+background-color: black;
+height: 10px;
+width: 500px;
+margin: 8px auto;
+}
+
+#aboutme{
+background-color: lime;
+height: 800px;
+width: 100%;
+color: white;
+}
+
+#chatbot{
+background-color: lime;
+height: 100%;
+width: 100%;
+}
+
+#games{
+background-color: lime;
+height: 100%;
+width: 100%;
+}
+
+img{
+transition: transform .2s;
+}
+
+img:hover{
+transform: scale(0.5);
+}
+.link{
+text-align: right;
+float: left;
+color: white;
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+}
+.link:hover{
+font-size: 12px;
+font-family:cursive;
+color:yellow;
+border-style: dashed;
+border-color: yellow;
+border-width: 10px;
+}
+#contact iframe{
+    width:100%;
+}
+.menu{
+list-style: none;
+position: fixed;
+z-index: 10;
+background-color: chocolate;
+width: 100%;
+margin-top: 0px;
+}
+
+a{
+text-decoration: none;
+color: white;
+}    
+#games a{
+text-decoration: overline !important;
+color: black !important;
+}   
+#contact{
+background-color: lime;
+height: 100%;
+width: 100%;
+}
+.contact_1 h3{
+display: inline;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
